@@ -1,0 +1,9 @@
+/*
+             * Schreiben Sie eine APP, mit der die Fläache und 
+             * der Umfang eines unregelmässigen Dreiecks berechnet werden kann.
+             * 
+             * - Sämtliche Seiten-Längen sollen von einem User eingegeben werden können 
+             * - Ergebnisse und Eingaben sollen am Ende in einer ansprechenden Form dargestellt werden
+             * - die APP soll Fehlertolerant sein (keine Exceptions)
+             * - verwenden Sie Farben in der Ausgabe
+             */
