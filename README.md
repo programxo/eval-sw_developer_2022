@@ -24,4 +24,9 @@ Dies ist eine Beschreibung der Aufgabe. Bitte machen!
 
 [Markdown](https://www.markdownguide.org/basic-syntax/)
 
+## DAS KONZEPT
 
+![Konzept](/images/konzept.drawio.png)
+
+#
+Beschreibung kommt wohl ganz später
