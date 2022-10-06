@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strukturen", "Strukturen\Strukturen.csproj", "{FEF24576-4763-4D45-9141-7A13725CE8CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{1F5B321C-474E-4F5B-81AC-2A1DE3CC72E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF24576-4763-4D45-9141-7A13725CE8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF24576-4763-4D45-9141-7A13725CE8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF24576-4763-4D45-9141-7A13725CE8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF24576-4763-4D45-9141-7A13725CE8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5B321C-474E-4F5B-81AC-2A1DE3CC72E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5B321C-474E-4F5B-81AC-2A1DE3CC72E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5B321C-474E-4F5B-81AC-2A1DE3CC72E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5B321C-474E-4F5B-81AC-2A1DE3CC72E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38386A2-3190-4348-9942-FE119CA2AF67}
+	EndGlobalSection
+EndGlobal
