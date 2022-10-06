@@ -30,3 +30,9 @@ Dies ist eine Beschreibung der Aufgabe. Bitte machen!
 
 #
 Beschreibung kommt wohl ganz später
+
+## Zusammenfassungen aus dem Unterricht:
+
+[29.09.2022](/src/20220929/readme.md)
+
+
