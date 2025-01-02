@@ -1,7 +1,5 @@
 # WIFI Software Developer C# 2022
 
-![WifiLogo](/doc/wifi_campus.PNG)
-
 Basics about programming with C#.
 
  - eins
